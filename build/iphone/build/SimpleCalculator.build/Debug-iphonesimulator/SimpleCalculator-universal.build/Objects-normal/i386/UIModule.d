@@ -1,0 +1,71 @@
+dependencies: \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/UIModule.m \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiBase.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiThreading.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiPublicAPI.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiDimension.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/UIModule.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiModule.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiEvaluator.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/KrollContext.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/KrollCallback.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/KrollObject.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUtils.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiColor.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/WebFont.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiFile.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiBuffer.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiBlob.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIAlertDialogProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/Ti2DMatrix.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/Ti3DMatrix.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiAnimation.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiPoint.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/ListenerEntry.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/LayoutConstraint.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiPhoneProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiPadProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiPadPopoverProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiViewProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIView.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiGradient.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiRect.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiViewTemplate.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiViewController.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiPadSplitWindowProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiWindowProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiTab.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiTabGroup.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiOSTransitionAnimationProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiOSProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiOSAdViewProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIViewProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIClipboardProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiOSCoverFlowViewProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiOSToolbarProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiToolbar.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiUIiOSTabbedBarProxy.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiApp.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiHost.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/Bridge.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiStylesheet.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/KrollBridge.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/XHRBridge.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/TiRootViewController.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/ImageLoader.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/APSHTTPClient/APSHTTPClient.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/APSHTTPClient/APSHTTPRequest.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/APSHTTPClient/APSHTTPResponse.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/APSHTTPClient/APSHTTPPostForm.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/APSHTTPClient/APSHTTPHelper.h \
+  /Users/felicitia/Documents/workspaces/Titanium/SimpleCalculator/build/iphone/Classes/Webcolor.h
